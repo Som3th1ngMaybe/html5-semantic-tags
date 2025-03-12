@@ -39,7 +39,7 @@ header {
   background-color: #df5c53;
 }
 
-navigation {
+nav {
   grid-area: navigation;
   background-color: #eafa73;
 }
