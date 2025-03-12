@@ -59,7 +59,7 @@ main {
 article {
   background-color: #44CF6C;
   margin: 10px;
-  height: 20rem;
+  height: 10rem;
 }
 
 .second-article {
@@ -69,7 +69,7 @@ article {
 section {
   background-color: #A9FDAC;
   margin: 10px;
-  height: 5rem;
+  height: 2rem;
 }
 
 .footer-main {
